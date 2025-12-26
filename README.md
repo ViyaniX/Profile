@@ -1,7 +1,7 @@
 
-  # Design ViyaniX Business Website
+  # ViyaniX
 
-  This is a code bundle for Design ViyaniX Business Website. The original project is available at https://www.figma.com/design/kqXvDbmPOBKTZxzbAQyuHn/Design-ViyaniX-Business-Website.
+  This is a code bundle for Design ViyaniX Business Website.bsite.
 
   ## Running the code
 
